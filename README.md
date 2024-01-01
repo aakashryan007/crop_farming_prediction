@@ -9,3 +9,6 @@ Crop Farming Prediction using machine learning (python)
 > 3. run command ex.(cd C:\Users\admin\folder_name) to select the folder
 > 4. and then run command ex.(streamlit run crop_prediction_app3.0.py) then the brower window popup
 > 5. to stop the running local sever in cmd press 'ctrl + c'
+.
+.
+> don't forfot to install needed libraries.
