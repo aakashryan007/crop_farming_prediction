@@ -11,4 +11,4 @@ Crop Farming Prediction using machine learning (python)
 > 5. to stop the running local sever in cmd press 'ctrl + c'
 .
 .
-> don't forfot to install needed libraries.
+> don't forgot to install needed libraries.
